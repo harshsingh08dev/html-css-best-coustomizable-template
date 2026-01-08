@@ -9,7 +9,8 @@ A modern, clean, responsive web template built for developers.
 - Easy to customize
 - Fast performance
 
-## 🔥 Live Demo
+## 🔥 Live Demo ![Uploading Screenshot 2026-01-06 122411.png…]()
+
 👉 https://theme-systev.netlify.app
 
 ## 📦 Full Version
